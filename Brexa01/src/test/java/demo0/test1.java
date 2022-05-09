@@ -1,0 +1,7 @@
+package demo0;
+
+public class test1 {
+public static void main(String[] args) {
+	System.out.println("hi");
+}
+}
